@@ -91,7 +91,7 @@ ifneq ($(STATEFILE),)
 endif
 
 BINDIR = $(BASEDIR)/sbin
-MANDIR ?= $(BASEDIR)/man
+MANDIR ?= $(BASEDIR)/share/man
 
 #--------------------------------------------------------------------------
 
